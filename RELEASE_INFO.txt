@@ -1,0 +1,5 @@
+# v1.0.0 — RIMAN RESEARCH: Clinical & Microclimate Evaluation of NBP Complex in Active Cream EX for Canadian Humidity Adaptation
+
+- Portal detail: https://www.riman.win/www/en/reports/detail/ca-nbp-complex-microclimate-barrier-study.html
+- Theme hub: https://www.riman.win/www/en/reports/hub/microclimate.html
+- Dual DOIs: Kaggle 10.34740/kaggle/dsv/22383536 · Hugging Face 10.57967/hf/11688
